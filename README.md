@@ -1,0 +1,2 @@
+# belugacoin
+wight coin
